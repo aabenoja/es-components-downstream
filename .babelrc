@@ -1,0 +1,10 @@
+{
+  "presets": [ ["wtw-im", {
+    "extractFormatMessage": false,
+    "transformFormatMessage": false,
+    "env": {
+      "modules": false,
+      "targets": [ "Chrome last 2 versions" ]
+    }
+  }] ]
+}
